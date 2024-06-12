@@ -1,0 +1,120 @@
+
+#Espacio{padding-left: 32px;
+    padding-right: 32px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    position: relative;
+    bottom: 70px;}
+
+.Logo{margin-top: 140px;
+    max-height: 100%;
+    max-width: 100%;
+    box-sizing: inherit;
+    width: 270.5px;
+    aspect-ratio: auto 213.5 / 80;
+    height: 120px;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    position: relative;
+left: 40%;
+bottom: 100px;} 
+
+    #Cami{font-family: 'Arial Black', Arial-BoldMT, sans-serif;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        text-align: center;
+        font-weight: 400;
+        font-style: normal;
+        overflow-wrap: anywhere;
+        margin-right: 32px;
+        padding: 12px 0;
+        position: relative;
+        color: white;}
+
+        #Vestidos{margin-right: 32px;
+            font-family: Arial;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+            color: white;}
+
+            #camisas{margin-right: 32px;    
+                font-family: Arial;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 24px;
+                letter-spacing: 0.03em;
+                text-transform: uppercase;
+                color: white;}
+
+                #Pantalones{margin-right: 32px;    
+                    font-family: Arial;
+                    font-size: 16px;
+                    font-weight: 400;
+                    line-height: 24px;
+                    letter-spacing: 0.03em;
+                    text-transform: uppercase;
+                    color: white;}
+         
+                #home{margin-right: 32px;    
+                    font-family: Arial;
+                    font-size: 16px;
+                    font-weight: 400;
+                    line-height: 24px;
+                    letter-spacing: 0.03em;
+                    text-transform: uppercase;
+                    color: white;}
+
+          .imagenV{display: block;
+            position: static;
+            aspect-ratio: 3 / 4;
+            width: 100%;
+            margin: 0;
+            object-fit: cover;
+            object-position: top;
+            box-sizing: inherit;
+        }
+
+        .imagenP{display: block;
+            position: static;
+            aspect-ratio: 3 / 4;
+            width: 100%;
+            margin: 0;
+            object-fit: cover;
+            object-position: top;
+            box-sizing: inherit;
+        }
+
+        .imagenC{display: block;
+            position: static;
+            aspect-ratio: 3 / 4;
+            width: 100%;
+            margin: 0;
+            object-fit: cover;
+            object-position: top;
+            box-sizing: inherit;
+        }
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;}
+
+    header{border: solid 2px white;
+    height: 270px;
+background-color: #474b4e;}
